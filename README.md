@@ -18,5 +18,6 @@ This is the python project we will find correlation and give the best recommenda
       
 #**Files in project**
 MovieRecommendationSystem.ipynb: python notebook code file
-movie.csv-movie dataset from MovieLens
-myrating.csv-rating given by user to movies
+movie_id_title- dataset from MovieLens of movie titles
+myrating.csv-rating given by me to movies
+u- rating given by user to movies (dataset)
